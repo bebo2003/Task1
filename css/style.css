@@ -90,7 +90,7 @@ nav {
 }
 
 .logo img {
-   
+   width: 100%;
     color: var(--main-green);
 }
 
